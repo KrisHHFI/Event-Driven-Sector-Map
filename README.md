@@ -40,10 +40,6 @@ A grid view puts every industry against every event, so you can spot the industr
 
 ![Grid of industries against events, with green and red score cells](media/compare.png)
 
-## Works on mobile
-
-![The event chips and the chart on a phone-sized screen](media/mobile.png)
-
 ---
 
 ## What's in it
